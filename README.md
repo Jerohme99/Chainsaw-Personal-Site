@@ -1,2 +1,2 @@
-# Improved-Chainsaw-CSS-
+# Chainsaw Personal Site
 Primarily CSS project
